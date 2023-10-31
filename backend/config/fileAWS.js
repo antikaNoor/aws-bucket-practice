@@ -1,0 +1,7 @@
+module.exports = {
+    AWS_ACCESS_KEY_ID: 'YOUR_AWS_ACCESS_KEY_ID',
+    AWS_SECRET_ACCESS_KEY: 'YOUR_AWS_SECRET_ACCESS_KEY',
+    S3_REGION: 'YOUR_S3_REGION',
+    S3_BUCKET: 'YOUR_S3_BUCKET_NAME',
+    S3_BASE_URL: 'YOUR_S3_BASE_URL', // Example: https://s3.amazonaws.com
+};
